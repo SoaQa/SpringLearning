@@ -1,0 +1,19 @@
+[ {
+  "firstName" : "Valeriy",
+  "surname" : "Petrovich",
+  "age" : 45,
+  "rentDate" : [ 2019, 11, 30 ],
+  "nroom" : 1
+}, {
+  "firstName" : "Maksim",
+  "surname" : "Petrovich",
+  "age" : 25,
+  "rentDate" : [ 2019, 12, 2 ],
+  "nroom" : 1
+}, {
+  "firstName" : "Anna",
+  "surname" : "Petrovich",
+  "age" : 43,
+  "rentDate" : [ 2019, 12, 1 ],
+  "nroom" : 1
+} ]

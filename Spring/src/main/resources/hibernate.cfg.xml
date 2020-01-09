@@ -1,0 +1,26 @@
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL9Dialect</property>
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">os_em</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/postgres</property>
+
+
+
+        <property name="connection_pool_size">1</property>
+
+        <property name="hbm2ddl.auto">update</property>
+
+        <property name="show_sql">true</property>
+
+
+
+        <mapping class="hotelManager.models.ArchiveClient"/>
+        <mapping class="hotelManager.models.Room"/>
+        <mapping class="hotelManager.models.Hotel"/>
+        <mapping class="hotelManager.models.HotelClient"/>
+        <mapping class="hotelManager.models.AdditionalService"/>
+
+    </session-factory>
+</hibernate-configuration>

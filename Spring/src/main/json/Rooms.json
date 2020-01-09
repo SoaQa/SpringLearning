@@ -1,0 +1,162 @@
+[ {
+  "costPerDay" : 553,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 2,
+  "starsCount" : 3,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 5,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 568,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 1,
+  "starsCount" : 1,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 6,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 633,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 1,
+  "starsCount" : 2,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 9,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 647,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 5,
+  "starsCount" : 4,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 4,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 664,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 4,
+  "starsCount" : 3,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 7,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 683,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 2,
+  "starsCount" : 3,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 8,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 755,
+  "rentDate" : null,
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 3,
+  "starsCount" : 3,
+  "historyClients" : [ ],
+  "client" : null,
+  "nroom" : 10,
+  "free" : true,
+  "restore" : false
+}, {
+  "costPerDay" : 784,
+  "rentDate" : [ 2019, 12, 4 ],
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 3,
+  "starsCount" : 2,
+  "historyClients" : [ ],
+  "client" : {
+    "firstName" : "Anna",
+    "surname" : "Petrovich",
+    "age" : 43,
+    "rentDate" : [ 2019, 12, 1 ],
+    "nroom" : 1
+  },
+  "nroom" : 3,
+  "free" : false,
+  "restore" : false
+}, {
+  "costPerDay" : 970,
+  "rentDate" : [ 2019, 12, 1 ],
+  "additionalServices" : [ ],
+  "maximumOccupancy" : 5,
+  "starsCount" : 4,
+  "historyClients" : [ ],
+  "client" : {
+    "firstName" : "Maksim",
+    "surname" : "Petrovich",
+    "age" : 25,
+    "rentDate" : [ 2019, 12, 2 ],
+    "nroom" : 1
+  },
+  "nroom" : 2,
+  "free" : false,
+  "restore" : false
+}, {
+  "costPerDay" : 999,
+  "rentDate" : [ 2019, 12, 1 ],
+  "additionalServices" : [ {
+    "serviceName" : "Услуга1",
+    "serviceCost" : 200,
+    "rentDate" : [ 2019, 12, 2 ],
+    "hotelClient" : {
+      "firstName" : "Valeriy",
+      "surname" : "Petrovich",
+      "age" : 45,
+      "rentDate" : [ 2019, 11, 30 ],
+      "nroom" : 1
+    }
+  }, {
+    "serviceName" : "Услуга2",
+    "serviceCost" : 300,
+    "rentDate" : [ 2019, 12, 2 ],
+    "hotelClient" : {
+      "firstName" : "Valeriy",
+      "surname" : "Petrovich",
+      "age" : 45,
+      "rentDate" : [ 2019, 11, 30 ],
+      "nroom" : 1
+    }
+  }, {
+    "serviceName" : "Сейф",
+    "serviceCost" : 1000,
+    "rentDate" : [ 2019, 12, 2 ],
+    "hotelClient" : {
+      "firstName" : "Valeriy",
+      "surname" : "Petrovich",
+      "age" : 45,
+      "rentDate" : [ 2019, 11, 30 ],
+      "nroom" : 1
+    }
+  } ],
+  "maximumOccupancy" : 5,
+  "starsCount" : 0,
+  "historyClients" : [ ],
+  "client" : {
+    "firstName" : "Anna",
+    "surname" : "Petrovich",
+    "age" : 43,
+    "rentDate" : [ 2019, 12, 1 ],
+    "nroom" : 1
+  },
+  "nroom" : 1,
+  "free" : false,
+  "restore" : false
+} ]
