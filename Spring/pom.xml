@@ -27,7 +27,7 @@
         <jacksonVersion>2.12.1</jacksonVersion>
         <apacheVersion>3.4</apacheVersion>
         <hibernateVersion>5.4.0.Final</hibernateVersion>
-        <springVersion>5.2.2.RELEASE</springVersion>
+        <springVersion>5.2.22.RELEASE</springVersion>
     </properties>
     <dependencies>
         <dependency>
